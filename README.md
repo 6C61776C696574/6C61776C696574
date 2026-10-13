@@ -6,7 +6,9 @@
 </a>
 
 </div>
+
 ---
+
 <div align="center">
 
 ### THE LAWLIET PRINCIPLE · VERSION 1.0
@@ -18,6 +20,7 @@ $$
 *Insight × Knowledge × Error Resistance, divided by Distraction*
 
 </div>
+
 ---
 
 ## `01` // ABOUT ME
