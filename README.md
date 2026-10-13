@@ -8,7 +8,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=Initializing+Lawliet...;Decoding+ideas+into+reality.;Observe.+Analyze.+Execute.;Welcome+to+my+digital+world." alt="Typing animation" />
 </a>
 
-[About](#-about-me) • [Tech Stack](#-tech-arsenal) • [Projects](#-featured-projects) • [Stats](#-github-intelligence) • [Connect](#-connect)
+</div>
+
+---
+
+<div align="center">
+
+### THE LAWLIET PRINCIPLE · VERSION 1.0
+
+$$
+\boxed{\mathcal{L}=\frac{I\cdot K\cdot(1-E)}{1+D}}
+$$
+
+*Insight × Knowledge × Error Resistance, divided by Distraction*
 
 </div>
 
