@@ -1,17 +1,12 @@
+---
 <div align="center">
-
-<a href="https://github.com/6C61776C696574">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,40:101827,100:00F5D4&text=LAWLIET&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=THINK.%20BUILD.%20DISAPPEAR.&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Lawliet cyber banner" />
-</a>
 
 <a href="https://github.com/6C61776C696574">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=Initializing+Lawliet...;Decoding+ideas+into+reality.;Observe.+Analyze.+Execute.;Welcome+to+my+digital+world." alt="Typing animation" />
 </a>
 
 </div>
-
 ---
-
 <div align="center">
 
 ### THE LAWLIET PRINCIPLE · VERSION 1.0
@@ -23,7 +18,6 @@ $$
 *Insight × Knowledge × Error Resistance, divided by Distraction*
 
 </div>
-
 ---
 
 ## `01` // ABOUT ME
